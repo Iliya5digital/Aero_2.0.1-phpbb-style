@@ -1,0 +1,18 @@
+/*  phpBB3 Style Sheet
+    --------------------------------------------------------------
+	Style name:			aero red
+	Based on style:		
+	Original author:	Tom Beddard ( http://www.subblue.com/ )
+	Modified by:		phpBB Limited ( https://www.phpbb.com/ )
+    --------------------------------------------------------------
+*/
+
+@import url("../../aero/theme/common.css");
+@import url("../../aero/theme/links.css");
+@import url("../../aero/theme/content.css");
+@import url("../../aero/theme/buttons.css");
+@import url("../../aero/theme/cp.css");
+@import url("../../aero/theme/forms.css");
+@import url("../../aero/theme/colours.css");
+@import url("../../aero/theme/imageset.css");
+@import url("overwrite.css");

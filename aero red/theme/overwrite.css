@@ -1,0 +1,15 @@
+body {
+	background: #CCE3F3 url("./images/bg_red.gif") repeat-x !important;
+}
+
+.headerbg {
+	background: #310004 url("./images/headerbg_red.gif") repeat-x !important;
+}
+
+.headerbar {
+	background-image: url("./images/header_red.png") !important;
+}
+
+.rtl .headerbar {
+	background-image: url("./images/header_red_rtl.png") !important;
+}

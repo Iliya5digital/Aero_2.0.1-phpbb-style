@@ -1,0 +1,15 @@
+body {
+	background: #DFDFDF url("./images/bg_black.gif") repeat-x !important;
+}
+
+.headerbg {
+	background: #0B0B0E url("./images/headerbg_black.gif") repeat-x  !important;
+}
+
+.headerbar {
+	background-image: url("./images/header_black.png") !important;
+}
+
+.rtl .headerbar {
+	background-image: url("./images/header_black_rtl.png") !important;
+}
